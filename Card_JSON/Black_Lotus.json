@@ -10,9 +10,8 @@
 	},
 	"Text_Box":{
 		"Abilities":[
-			"{T},Sacrifice Black Lotus: Add three",
-			"mana of any one color to your mana",
-			"pool."
+			"{T},Sacrifice Black Lotus: Add three mana of ",
+			"any one color to your mana pool.."
 		],
 		"Power":"",
 		"Toughness":"",

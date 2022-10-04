@@ -10,11 +10,10 @@
 	},
 	"Text_Box":{
 		"Abilities":[
-			"Target creature gets +3/+3",
-			"until end of turn."
+			"Target creature gets +3/+3 until end of turn."
 		],
 		"Power":"",
 		"Toughness":"",
-		"Flavor_Text":""
+		"Flavor_Text":"Suddenly, the hunter became the hunted."
 	}
 }

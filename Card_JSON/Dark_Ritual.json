@@ -10,8 +10,7 @@
 	},
 	"Text_Box":{
 		"Abilities":[
-			"Add {B}{B}{B}"
-		],
+			"Add {B}{B}{B} to your mana pool"],
 		"Power":"",
 		"Toughness":"",
 		"Flavor_Text":""

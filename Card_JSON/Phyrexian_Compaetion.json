@@ -10,8 +10,8 @@
 	},
 	"Text_Box":{
 		"Abilities":[
-			"Creatures you control are Phyrexian in addition"
-			"to their other types.
+			"Creatures you control are Phyrexian in addition",
+			"to their other types.",
 			"",
 			"If a non-artifact creature you control would die,",
 			"return it to the battlefield instead. It becomes",
@@ -19,8 +19,6 @@
 		],
 		"Power":"",
 		"Toughness":"",
-		"Flavor_Text":"Let weak feed upon weak, that \nwe may divine the nature of strength."
-
-"
+		"Flavor_Text":""
 	}
 }
