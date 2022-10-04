@@ -13,4 +13,4 @@ There are three seperate scripts used to set everything up; these three scripts 
 
 3)createImages.sh then takes the previously created .jgr files and convertes them into images of the cards.
 
-While I prepared many features to allow for many different cards to be prepresented, many of which are not displayed in the 5 demo cards, the game is constantly evolving and as a result I was unable to include every graphical element currently used in the game; that said, this program supports most of the standard frames and symbols required to create a Magic the Gathering Card.
+While I prepared many features to allow for many different cards to be prepresented, many of which are not displayed in the 5 demo cards, the game is constantly evolving and as a result I was unable to include every graphical element currently used in the game; that said, this program supports most of the standard frames and symbols required to create a Magic the Gathering card.
