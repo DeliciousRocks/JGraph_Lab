@@ -1,3 +1,9 @@
+'''
+In a nutshell, this program parses through the JSON representing a card and then selects the components that are required to visualize it, including the frames and
+any symbols needed. Additionally, it can take an image, convert it into encapsulated post script, and then incoperate the given image into the card. The result is
+a .jgr file that is then sent off to be visualized.
+'''
+
 from PIL import Image
 import json, os, re, sys
 def main():
@@ -121,12 +127,10 @@ def main():
 			index = 0
 			while(index < len(ability)):
 				if symbols >= 0:
-					print(ability[index:])
 					output += "newstring hjl vjc x " + str(current_x) + " y "+str(ability_starting_height)+" : " + ability[index:symbols] + "\n"	
 					current_x += len(ability[index:symbols])
 					symbol = ability[symbols+1:].split("}")[0]
 					end_point = ability[index:].find("}") 
-					print(end_point)
 					output += "newcurve eps Symbols_EPS/{"+symbol+"}.eps marksize "+str(symbol_size)+" "+str(symbol_size)+" pts "+str(current_x + (symbol_size/2 ))+" "+str(ability_starting_height)+" \n"
 					current_x += 10
 					index += end_point + 1
