@@ -1,3 +1,3 @@
-decompress.sh
-printCards.sh
-createImages.sh
+./decompress.sh
+./printCards.sh
+./createImages.sh
