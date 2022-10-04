@@ -13,6 +13,8 @@ There are three seperate scripts used to set everything up; these three scripts 
 
 3)createImages.sh then takes the previously created .jgr files and convertes them into images of the cards.
 
+Additionally, I've included pixelExtractor.py, which while no longer used in the current process was used to help extract the original .jgr files.
+
 While I prepared many features to allow for many different cards to be prepresented, many of which are not displayed in the 5 demo cards, the game is constantly evolving and as a result I was unable to include every graphical element currently used in the game; that said, this program supports most of the standard frames and symbols required to create a Magic the Gathering card; below is a comparison between the an actual version of "Shivan Dragon" and one created with my program.
 
 
