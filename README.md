@@ -5,7 +5,7 @@ My JGraph lab takes JSON representations of Magic the Gathering cards and render
 Python is the primary tool doing the heavy lifitng behind the scenes and the following modules are required:
 json, os, re, sys, and from PIL import Image; Aside from that, there is no compliation required and the inclused scripts should demonstrate the abilites of the project.
 
-There are three seperate scripts used to set everything up; these three scripts can be run individually, or do_it_all.sh can be called to handle everything:
+There are three seperate scripts used to set everything up; these three scripts can be run individually, or do_it_all.sh can be called to handle everything; before they will work properly you will need to list them as executable using `cmod +x filename.sh`.
 
 1)Decompress.sh inflates the Art_Assests folder as GitHub was not a fan of me trying to upload a bunch of images; it also didn't like my encapsulated post script for the frames, so the script also recreates the neccessary .eps files from the included .jgr files in "Frames_EPS".
 
