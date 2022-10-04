@@ -1,0 +1,20 @@
+{
+	"Card_Name":"Giant Growth",
+	"Mana_Value":"{G}",
+	"Color":"G",
+	"Type_Line":{
+		"Super_Type":"",
+		"Type":["Instant"],
+		"Subtype":"",
+		"Expansion":""
+	},
+	"Text_Box":{
+		"Abilities":[
+			"Target creature gets +3/+3",
+			"until end of turn."
+		],
+		"Power":"",
+		"Toughness":"",
+		"Flavor_Text":""
+	}
+}

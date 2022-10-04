@@ -1,0 +1,19 @@
+{
+	"Card_Name":"Dark Ritual",
+	"Mana_Value":"{B}",
+	"Color":"B",
+	"Type_Line":{
+		"Super_Type":"",
+		"Type":["Instant"],
+		"Subtype":"",
+		"Expansion":""
+	},
+	"Text_Box":{
+		"Abilities":[
+			"Add {B}{B}{B}"
+		],
+		"Power":"",
+		"Toughness":"",
+		"Flavor_Text":""
+	}
+}

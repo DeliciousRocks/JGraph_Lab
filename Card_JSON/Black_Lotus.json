@@ -1,0 +1,21 @@
+{
+	"Card_Name":"Black Lotus",
+	"Mana_Value":"{0}",
+	"Color":"A",
+	"Type_Line":{
+		"Super_Type":"",
+		"Type":["Artifact"],
+		"Subtype":"",
+		"Expansion":""
+	},
+	"Text_Box":{
+		"Abilities":[
+			"{T},Sacrifice Black Lotus: Add three",
+			"mana of any one color to your mana",
+			"pool."
+		],
+		"Power":"",
+		"Toughness":"",
+		"Flavor_Text":""
+	}
+}

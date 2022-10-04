@@ -1,0 +1,26 @@
+{
+	"Card_Name":"Phyrexian Compleation",
+	"Mana_Value":"{W-P}{U-P}{B-P}{R-P}{G-P}",
+	"Color":"M",
+	"Type_Line":{
+		"Super_Type":"",
+		"Type":["Enchantment"],
+		"Subtype":"",
+		"Expansion":""
+	},
+	"Text_Box":{
+		"Abilities":[
+			"Creatures you control are Phyrexian in addition"
+			"to their other types.
+			"",
+			"If a non-artifact creature you control would die,",
+			"return it to the battlefield instead. It becomes",
+			"an artifact in addition to it's other types."
+		],
+		"Power":"",
+		"Toughness":"",
+		"Flavor_Text":"Let weak feed upon weak, that \nwe may divine the nature of strength."
+
+"
+	}
+}

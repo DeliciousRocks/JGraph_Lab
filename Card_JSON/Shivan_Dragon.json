@@ -1,0 +1,20 @@
+{
+	"Card_Name":"Shivan Dragon",
+	"Mana_Value":"{4}{R}{R}",
+	"Color":"R",
+	"Type_Line":{
+		"Super_Type":"",
+		"Type":["Creature"],
+		"Subtype":"Dragon",
+		"Expansion":"{M10}"
+	},
+	"Text_Box":{
+		"Abilities":[
+			"Flying",
+			"{R}: Shivan Dragon gets +1/+0 until end of turn."
+		],
+		"Power":"5",
+		"Toughness":"5",
+		"Flavor_Text":"The undisputed master of the mountains of Shiv."
+	}
+}
